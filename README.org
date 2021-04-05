@@ -1,0 +1,12 @@
+* ~asciinema-player~'s assets
+
+  Here there are the [[https://github.com/asciinema/asciinema-player][asciinema-player]]'s assets i.e. the following
+  files:
+
+  - ~asciinema-player.js~
+  - ~asciinema-player.css~
+
+  I've had to create this repository since, unluckily, the official
+  repository don't release these files in a tarball, so I can't use
+  them as flake's ~input~ in my [[https://github.com/aciceri/blog/][blog]].
+  This is just a workaround, not a permanent solution.
